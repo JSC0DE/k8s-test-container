@@ -3,4 +3,5 @@ RUN apk update
 RUN apk add curl \
             net-tools \
             nmap \
+            bash
             
