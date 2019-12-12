@@ -1,2 +1,3 @@
-# k8s-test-container
-This test container has a set of tools used for trouble shooting.
+# kubeshooter
+
+Trouble shooting tools in a container.
