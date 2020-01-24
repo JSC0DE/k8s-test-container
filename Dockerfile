@@ -4,7 +4,8 @@ RUN apk add curl \
             net-tools \
             nmap \
             bash \
-            unzip
+            unzip \
+            ncdu
 
 # Install Kubectl CLI
 RUN curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.16.0/bin/linux/amd64/kubectl && \
